@@ -27,9 +27,9 @@ For a detailed demonstration of the Sales-website features, you can watch our tu
 [Watch Video Demo](https://youtu.be/3Rd2-eBiWpk)
 
 ## images of website
-![Main](gd1.png)
-![Main](gd2.png)
-![Main](gd3.png)
-![Sign in](dn.png)
-![Sign up](dk.png)
+![Main](image/gd1.png)
+![Main](image/gd2.png)
+![Main](image/gd3.png)
+![Sign in](image/dn.png)
+![Sign up](image/dk.png)
 
