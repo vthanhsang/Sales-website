@@ -27,5 +27,8 @@ For a detailed demonstration of the Sales-website features, you can watch our tu
 [Watch Video Demo](https://youtu.be/3Rd2-eBiWpk)
 
 ## images of website
+![Giao diện chính](Ảnh chụp màn hình 2024-06-19 221618.png)
+![Giao diện chính](images/giao-dien-chinh.png)
+![Giao diện chính](images/giao-dien-chinh.png)
 
 
