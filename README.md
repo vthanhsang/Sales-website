@@ -20,4 +20,8 @@ Sales-website is an e-commerce platform specialized in sports apparel and access
 - **Version Control**: Git
 - **Development Tools**: IDE (e.g., Visual Studio Code, Sublime Text), DBeaver (for database management)
 
-## Image of the interface
+## Video Demo
+
+For a detailed demonstration of the Sales-website features, you can watch our tutorial video on YouTube:
+
+[Watch Video Demo]([https://www.youtube.com/watch?v=your-video-id](https://youtu.be/3Rd2-eBiWpk)
